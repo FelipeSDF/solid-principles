@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # **Projeto de Exemplificação dos Princípios SOLID**
 
 ## **Descrição do Projeto**
@@ -58,4 +56,3 @@ O código está dividido em classes que seguem os princípios SOLID. O principal
 https://github.com/FelipeSDF/solid-principles.git
 ```
 ----
->>>>>>> f3ab1e5 (Readme)
